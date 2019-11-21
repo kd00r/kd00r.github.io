@@ -20,8 +20,8 @@ description: kd00r's work
 
 # List of links in the navigation bar
 navbar-links:
+  About me: "about_kd00r"
   Links:
-    - About me: "about_kd00r"
     - Soundcloud: "https://soundcloud.com/raktpi"
     - LinkedIn: "https://www.linkedin.com/in/patrik-g%C3%A5nge-b49554b8/"
 
