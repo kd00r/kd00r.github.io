@@ -11,7 +11,7 @@ My name is Patrik. I make beats!
 
 I create beats and work with local rappers in Linköping. I am a DJ for a hobby.
 
-### My history
+### My History
 
 - 2015: Bought the "FL Studio" Digital Audio Workstation.
 - 2016: Started learning more about music.
