@@ -7,7 +7,7 @@ subtitle: Who I am and what I do
 My name is Patrik. I make beats!
 
 - I work fast in my favourite DAW.
-- I have 4+ years of mixing and mastering hip hop beats under my belt.
+- I have 3 years of mixing and mastering hip hop beats under my belt.
 
 I create beats and work with local rappers in Linköping.
 
