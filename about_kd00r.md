@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who I am and what I do
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Patrik. I make beats!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I work fast in my favourite DAW.
+- I have 4+ years of mixing and mastering hip hop beats under my belt.
 
-What else do you need?
+I create beats and work with local rappers in Linköping.
 
-### my history
+### My history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- 2015: Bought FL Studio.
+- 2016: Started mixing and mastering tracks.
+- 2017: Helped a local rapper with mix and mastering for a physical CD release.
+- 2018: CD released.
