@@ -10,7 +10,7 @@ My name is Patrik. I make beats!
 - I am flexible in meeting my clients needs.
 - I have 3 years of arranging, mixing and mastering hip hop beats under my belt.
 
-I create beats and work with local rappers in Linköping. I am a DJ for a hobby.
+I create beats and work with local rappers in Linköping. I am a DJ for a hobby. I am flexible in my domain yet I try new things all the time. I tend to be altruistic in my endeavours with other people. I have good communication skills and mediator knowhow.
 
 ### My History
 
