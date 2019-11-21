@@ -13,7 +13,7 @@ I create beats and work with local rappers in Linköping. I am a DJ for a hobby.
 
 ### My history
 
-- 2015: Bought FL Studio.
+- 2015: Bought the "FL Studio" Digital Audio Workstation.
 - 2016: Started learning more about music.
   - Began mixing and mastering tracks.
   - Invested time on my first DJ mixer.
